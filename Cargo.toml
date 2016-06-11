@@ -1,0 +1,11 @@
+[package]
+name = "i9"
+version = "0.1.0"
+authors = ["Murilo Cadanus da Costa <murilocadanus@gmail.com>"]
+
+[dependencies]
+
+argparse = "*"
+config = "~0.1.0"
+log = "0.3"
+env_logger = "0.3"
