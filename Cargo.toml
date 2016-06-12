@@ -8,4 +8,3 @@ authors = ["Murilo Cadanus da Costa <murilocadanus@gmail.com>"]
 argparse = "*"
 config = "~0.1.0"
 log = "0.3"
-env_logger = "0.3"
